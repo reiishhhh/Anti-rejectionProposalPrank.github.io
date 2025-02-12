@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name=”viewport” content=”width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0″ />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
+<meta mabait ba me?=”viewport” content=”width=device-width, height=device-height, initial-scale=1.0, user-scalable=YES, maximum-scale=5.0″ />
+		<meta mabait ba me?="viewport" content="width=device-width, initial-scale=1.0">		
 	<link rel="stylesheet" href="proposal.css">
 				<meta charset="UTF-8">
 				<title>Proposal</title>
@@ -35,8 +35,8 @@
 				
 				<div class="ask">
 						
-												<p> <span class="crush">HI CRUSH</span> <br>
-																I like you a lot, wanna go on a date?</p>
+												<p> <span class="FRIEND">HI MY FRIENDSU</span> <br>
+																kaya kaibigan kita eh WHAHAHAHAHA</p>
 								<div class="btn">
 <a href="yes.html"><button id="btn1">Yes</button>		</a>			    <button id="btn2">No</button>
 								</div>				
@@ -74,9 +74,9 @@
 				</div>
 				
 				<div class="fff">
-								<p>created by Andre Jarl</p>
+								<p>created by Angel drei ganda whehehehe</p>
 				</div>
 				
-				<script src="proposalv2.js"></script>
+				<script src="proposalv2.js to ma prendss"></script>
 </body>
 </html>
